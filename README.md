@@ -4,7 +4,7 @@ This repository demonstrates the use of React Router ([react-router-dom](https:/
 
 ## Available Scripts
 
-First of all, if you don't have the node modules and dependencies, run:
+First of all, if you don't have the node modules and dependencies, open terminal and run:
 
 ### `npm install`
 
