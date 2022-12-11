@@ -10,8 +10,8 @@ export default function header() {
         </div>
         <div>
           <ul className="flex gap-5">
-            <Link to="info" className="px-6 py-2 rounded cursor-pointer hover:bg-blue-200 focus:bg-blue-400">Info</Link>
-            <Link to="calculator" className="px-6 py-2 rounded cursor-pointer hover:bg-blue-200 focus:bg-blue-400">Calculator</Link>
+            <Link to="about" className="px-6 py-2 rounded cursor-pointer hover:bg-blue-200 focus:bg-blue-400">About</Link>
+            <Link to="contact" className="px-6 py-2 rounded cursor-pointer hover:bg-blue-200 focus:bg-blue-400">Contact</Link>
           </ul>
         </div>
       </nav>
