@@ -1,8 +1,8 @@
 import Header from "./header";
 import Home from "./home";
-import Info from "./info";
-import Calculator from "./calculator";
 import Footer from "./footer";
+import About from "./about";
+import Contact from "./contact";
 import { Routes, Route } from "react-router-dom";
 
 function App() {
@@ -12,8 +12,8 @@ function App() {
       <div className="h-full grow">
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="info" element={<Info />} />
-          <Route path="calculator" element={<Calculator />} />
+          <Route path="about" element={<About />} />
+          <Route path="contact" element={<Contact />} />
         </Routes>
       </div>
       <Footer />
