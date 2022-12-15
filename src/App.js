@@ -1,8 +1,8 @@
-import Header from "./header";
-import Home from "./home";
-import Footer from "./footer";
-import About from "./about";
-import Contact from "./contact";
+import Header from "./components/Header/";
+import Home from "./components/";
+import Footer from "./components/Footer/";
+import About from "./components/about";
+import Contact from "./components/contact";
 import { Routes, Route } from "react-router-dom";
 
 function App() {

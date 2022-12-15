@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
-export default function header() {
+export default function Header() {
   return (
     <header className="shadow-md shrink-0">
       <nav className="flex justify-between items-center px-12 py-3">
