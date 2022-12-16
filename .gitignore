@@ -1,2 +1,3 @@
 # Mame of the folder and files to ignore
 node_modules
+package-lock.json
