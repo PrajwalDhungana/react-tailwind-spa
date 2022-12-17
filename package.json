@@ -1,5 +1,5 @@
 {
-  "name": "spa-template-reactjs",
+  "name": "react-tailwind-spa",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
